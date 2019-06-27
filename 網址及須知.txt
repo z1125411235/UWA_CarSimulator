@@ -1,0 +1,7 @@
+版本:Unity 5.4以上
+
+UWA網址__https://lab.uwa4d.com/lab/5b442988d7f10a201faf64b9?fbclid=IwAR2e2hIxV88l4M-MG1OU31uDJJ-42jBXS8tSIuuL83tulq51pwKPq1MqIC0
+
+本人Github網址__https://github.com/z1125411235/UWA_CarSimulator
+
+官方Github網址__https://github.com/jongallant/CarSimulator
